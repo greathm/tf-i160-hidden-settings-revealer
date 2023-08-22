@@ -15,11 +15,11 @@ How to remove isp restrictions:
 - press "Submit"
 
 "MNC" List:
-Irancell : 35
-Mci : 11
-Rightel : 20
-Shatel : 08
-Samantel : 01
+ - Irancell : 35
+ - Mci : 11
+ - Rightel : 20
+ - Shatel : 08
+ - Samantel : 01
 
 
 tested on:
