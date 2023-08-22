@@ -4,7 +4,7 @@ userscript for revealing tf-i160 modem hidden settings
 How to use:
 - add the script to tampermonkey
 - open the modem admin page
-- use the two bottons on the down right corner of the page to reveal the hidden settings
+- use the two bottons on the down right corner of the page to reveal the hidden settings on each tab
 
 How to remove isp restrictions:
 - in the admin page go to Settings >> Network >> Sim Management
