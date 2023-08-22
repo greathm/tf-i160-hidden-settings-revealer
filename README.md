@@ -7,7 +7,7 @@ How to use:
 - use the two bottons on the down right corner of the page to reveal the hidden settings on each tab
 
 How to remove isp restrictions:
-- in the admin page go to Settings >> Network >> Sim Management
+- in the admin page navigate to Settings >> Network >> Sim Management
 - use the "reveal hidden settings" botton to reveal the "SIM PLMN" tab
 - press "Add" botton to make a new index
 - enter 432 for "MCC" 
