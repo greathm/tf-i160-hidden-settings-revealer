@@ -5,6 +5,7 @@
 // @description  removes "display: none;" and "disabled" attributes from entire page code
 // @author       @great_hm
 // @match        https://192.168.1.1/*
+// @match        http://192.168.1.1/*
 // @grant        none
 // ==/UserScript==
 
