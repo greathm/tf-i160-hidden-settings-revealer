@@ -16,7 +16,7 @@ How to remove isp restrictions:
 
 "MNC" List:
  - Irancell : 35
- - Mci : 11
+ - MCI : 11
  - Rightel : 20
  - Shatel : 08
  - Samantel : 01
