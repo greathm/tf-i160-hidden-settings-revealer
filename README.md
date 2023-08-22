@@ -11,7 +11,7 @@ How to remove isp restrictions:
 - use the "reveal hidden settings" botton to reveal the "SIM PLMN" tab
 - press "Add" botton to make a new index
 - enter 432 for "MCC" 
-- add your isp code "MNC" from the list below
+- add your isp code to "MNC" from the list below
 - press "Submit"
 
 "MNC" List:
