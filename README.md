@@ -1,4 +1,4 @@
-# tf-i160-hidden-settings-revealer
+# tf-i160-G1-hidden-settings-revealer
 userscript for revealing tf-i160 G1 modem hidden settings
 
 How to use:
