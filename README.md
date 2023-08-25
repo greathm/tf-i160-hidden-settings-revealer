@@ -1,5 +1,5 @@
 # tf-i160-hidden-settings-revealer
-userscript for revealing tf-i160 modem hidden settings
+userscript for revealing tf-i160 G1 modem hidden settings
 
 How to use:
 - add the script to tampermonkey
