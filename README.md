@@ -12,7 +12,7 @@ How to remove isp restrictions:
 - press "Add" botton to make a new index
 - enter 432 for "MCC" 
 - add your isp code to "MNC" from the list below
-- press "Submit"
+- press the "submit" button
 
 "MNC" List:
  - Irancell : 35
@@ -20,6 +20,13 @@ How to remove isp restrictions:
  - Rightel : 20
  - Shatel : 08
  - Samantel : 01
+
+How to disable TR-069:
+- in the admin page navigate to Settings >> System >> TR069
+- use the "enable disabled checks" botton to enable check boxes
+- uncheck the check boxes
+- use the "reveal hidden settings" botton to reveal the "submit" button
+- press the "submit" button
 
 
 tested on:
