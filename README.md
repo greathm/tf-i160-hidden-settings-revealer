@@ -23,7 +23,7 @@ How to remove isp restrictions:
 
 How to disable TR-069:
 - in the admin page navigate to Settings >> System >> TR069
-- use the "enable disabled checks" botton to enable check boxes
+- use the "enable disabled checks" botton to enable the check boxes
 - uncheck the check boxes
 - use the "reveal hidden settings" botton to reveal the "submit" button
 - press the "submit" button
