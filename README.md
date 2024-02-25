@@ -28,7 +28,6 @@ How to disable TR-069:
 - use the "reveal hidden settings" botton to reveal the "submit" button
 - press the "submit" button
 
-
 tested on:
 - tf-i160 g1 [wenex]
 
